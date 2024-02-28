@@ -2,10 +2,10 @@
 
 ## Task #4 - Increment and Decrement Screen
 
-## Description
+### Description
 This task involves creating a screen with a label displaying a numeric value and two buttons, one for incrementing the value and one for decrementing it. The buttons should modify the value displayed in the label according to specified rules.
 
-## Requirements
+### Requirements
 1. Create a screen with a label and two buttons: Increment and Decrement.
 2. Initially, the decrement button is disabled, and the value of the label is set to 0.
 3. Pressing the Increment button should increase the value by 1.
