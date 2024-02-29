@@ -1,16 +1,22 @@
 # Flutter-Lab-4
 
+## Task 1  -Favourites Page & Functionality
+The application generates cool-sounding names. The user can ask for the next name, favorite the current one, and review the list of favorited names on a separate page. The app is responsive to different screen sizes.
+
 
 ## Task 2  -Shrine Login Page
 In this task, you will build a login page for Shrine. Here's what you'll find:
 1. An image of Shrine's logo
 2. The name of the app (Shrine)
 3. Two text fields: one for entering a username and the other for a password
-4. Two buttons for routing to sucess page of cancellation 
+4. Two buttons for routing to sucess page of cancellation
 
 
+## Task 3  -Favourites Page & Functionality
+The application generates cool-sounding names. The user can ask for the next name, favorite the current one, and review the list of favorited names on a separate page. The app is responsive to different screen sizes.
 
-## Task #4 - Increment and Decrement Screen
+
+## Task 4 - Increment and Decrement Screen
 In this task, you will build a  screen with a label and two buttons: Increment and Decrement. Here's what you'll find:
 1. Initially, the decrement button is disabled, and the value of the label is set to 0.
 2. Pressing the Increment button should increase the value by 1.
