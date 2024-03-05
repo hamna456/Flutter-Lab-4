@@ -45,10 +45,11 @@ class _LoginPageState extends State<LoginPage> {
             ),
             const SizedBox(height: 120.0),
             // TODO: Remove filled: true values (103)
+            // Remove filled: true values (103)
             TextField(
               controller: _usernameController,
               decoration: const InputDecoration(
-                filled: true,
+                // Removed filled: true
                 labelText: 'Username',
               ),
             ),
@@ -56,7 +57,7 @@ class _LoginPageState extends State<LoginPage> {
             TextField(
               controller: _passwordController,
               decoration: const InputDecoration(
-                filled: true,
+                // Removed filled: true
                 labelText: 'Password',
               ),
               obscureText: true,
@@ -72,6 +73,9 @@ class _LoginPageState extends State<LoginPage> {
                     _usernameController.clear();
                     _passwordController.clear();
                   },
+                  style: TextButton.styleFrom(
+                    primary: Theme.of(context).colorScheme.secondary,
+                  ),
                 ),
                 // TODO: Add an elevation to NEXT (103)
                 // TODO: Add a beveled rectangular border to NEXT (103)
