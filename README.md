@@ -12,8 +12,8 @@ In this task, you will build a login page for Shrine. Here's what you'll find:
 
 ## Task 2  -Shrine App
 In this codelab, you'll customize the Shrine app in task 1 using:
-1.Color
-2.Typography
-3.Elevation
-4.Shape
-5.Layout
+1. Color
+2. Typography
+3. Elevation
+4. Shape
+5. Layout
