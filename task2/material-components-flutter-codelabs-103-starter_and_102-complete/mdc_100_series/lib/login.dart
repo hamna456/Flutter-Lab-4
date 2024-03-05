@@ -75,7 +75,10 @@ class _LoginPageState extends State<LoginPage> {
                     _passwordController.clear();
                   },
                   style: TextButton.styleFrom(
-                    primary: Theme.of(context).colorScheme.secondary,
+                    foregroundColor: kShrineBrown900,
+                    shape: const BeveledRectangleBorder(
+                      borderRadius: BorderRadius.all(Radius.circular(7.0)),
+                    ),
                   ),
                 ),
                 // TODO: Add an elevation to NEXT (103)
@@ -89,6 +92,9 @@ class _LoginPageState extends State<LoginPage> {
                     foregroundColor: kShrineBrown900,
                     backgroundColor: kShrinePink100,
                     elevation: 8.0,
+                    shape: const BeveledRectangleBorder(
+                      borderRadius: BorderRadius.all(Radius.circular(7.0)),
+                    ),
                   ),
                 ),
               ],
