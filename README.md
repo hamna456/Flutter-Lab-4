@@ -8,3 +8,12 @@ In this task, you will build a login page for Shrine. Here's what you'll find:
 3. Two text fields: one for entering a username and the other for a password
 4. Two buttons for routing to sucess page of cancellation
 
+
+
+## Task 2  -Shrine App
+In this codelab, you'll customize the Shrine app in task 1 using:
+Color
+Typography
+Elevation
+Shape
+Layout
