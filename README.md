@@ -17,3 +17,6 @@ In this codelab, you'll customize the Shrine app in task 1 using:
 3. Elevation
 4. Shape
 5. Layout
+
+
+## Task 3  -Widget Tree
